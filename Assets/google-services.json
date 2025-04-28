@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148980255117",
+    "project_id": "reverse-pong",
+    "storage_bucket": "reverse-pong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148980255117:android:e5a8a3ef274eb6818015c4",
+        "android_client_info": {
+          "package_name": "com.Serper.ReversePong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8buUM394S5fNt8P1e-YfSpB_WKHkodzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

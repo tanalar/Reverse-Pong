@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a16690b9a55bcaa4caad3ba443397abe
+  - enabled: 1
+    path: Assets/Scenes/1 Blue.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/2 Pink.unity
+    guid: 0af54e0e24ae23d42a2d951d5a9f21fe
+  - enabled: 1
+    path: Assets/Scenes/3 Yellow.unity
+    guid: ec02a00cf20c2d64ca8e75ea116cca24
+  - enabled: 1
+    path: Assets/Scenes/4 Blue.unity
+    guid: f5a7f6f3e452ca24d9522b7d46f6b29a
+  - enabled: 1
+    path: Assets/Scenes/5 Pink.unity
+    guid: 0b30fadbaaaf590458a53914deb57b7e
+  - enabled: 1
+    path: Assets/Scenes/6 Yellow.unity
+    guid: a173932747dc77749a6ead0518913938
+  - enabled: 1
+    path: Assets/Scenes/7 Blue.unity
+    guid: df12e8733c6812046bc2da8cedeb6b88
+  - enabled: 1
+    path: Assets/Scenes/8 Pink.unity
+    guid: 2a7b58498bdcca749a7a7f34897f3d73
+  - enabled: 1
+    path: Assets/Scenes/9 Yellow.unity
+    guid: 0f39ff2db50b4ab45809daf47d958bb0
+  - enabled: 1
+    path: Assets/Scenes/10 Blue.unity
+    guid: 28c86d7e67c896c43be7ada7351c43a2
+  - enabled: 1
+    path: Assets/Scenes/11 Pink.unity
+    guid: cb2207c470337b54cb8040f52916e7f5
+  - enabled: 1
+    path: Assets/Scenes/12 Yellow.unity
+    guid: e097668ae516ec749aa8513dc44fa0b8
+  - enabled: 1
+    path: Assets/Scenes/13 Blue.unity
+    guid: a5584594944c7cc48802292b81fb7eea
+  - enabled: 1
+    path: Assets/Scenes/14 Pink.unity
+    guid: 5e6fb1524e53cae44a012121dfce8701
+  - enabled: 1
+    path: Assets/Scenes/15 Yellow.unity
+    guid: 71ac805b9bd0d2b47b45b4eef2049054
+  - enabled: 1
+    path: Assets/Scenes/16 Blue.unity
+    guid: 2ab56c3fb2c2a32469423e4320d5a4be
+  - enabled: 1
+    path: Assets/Scenes/17 Pink.unity
+    guid: db06f34539e1bed4ebba7fc6ba36b1b7
+  - enabled: 1
+    path: Assets/Scenes/18 Yellow.unity
+    guid: 5c70574afa3110048b6d692ed5e1a10e
+  - enabled: 1
+    path: Assets/Scenes/19 Blue.unity
+    guid: ff2eefe6e1a04ae43827ee146b90c94b
+  - enabled: 1
+    path: Assets/Scenes/20 Pink.unity
+    guid: b70ab649407490a44880db119f174b99
+  - enabled: 1
+    path: Assets/Scenes/21 Yellow.unity
+    guid: 704bdd7041cec9846b3937f7525ca474
+  - enabled: 1
+    path: Assets/Scenes/22 Blue.unity
+    guid: a3cd4575e29f9134e92030fb088be64b
+  - enabled: 1
+    path: Assets/Scenes/23 Pink.unity
+    guid: e2a10623973204446a650641bffdab1d
+  - enabled: 1
+    path: Assets/Scenes/24 Yellow.unity
+    guid: 5923c1e0174443241946bc935ad9d815
+  - enabled: 1
+    path: Assets/Scenes/25 Blue.unity
+    guid: 327e148e0b9ec3b42adcafeb14ac1bd2
+  - enabled: 1
+    path: Assets/Scenes/26 Pink.unity
+    guid: 30febadd71d9cc04495ffd917555d563
+  - enabled: 1
+    path: Assets/Scenes/27 Yellow.unity
+    guid: bab7deddf70ba8846ae6900a26a45cbb
+  - enabled: 1
+    path: Assets/Scenes/28 Blue.unity
+    guid: ebc8b29d4a2c0a94ab984f187223ba5f
+  - enabled: 1
+    path: Assets/Scenes/29 Pink.unity
+    guid: 2375e84e807db4d47ac2011113c0c20b
+  - enabled: 1
+    path: Assets/Scenes/30 Yellow.unity
+    guid: 96c24a05d069b3648b41eb04c6487d49
+  - enabled: 1
+    path: Assets/Scenes/31 Blue.unity
+    guid: 6fe915c4a99d34345b536d51dda7624e
+  - enabled: 1
+    path: Assets/Scenes/32 Pink.unity
+    guid: 012fe2b8be297a24582cf8f6a1f0e44e
+  - enabled: 1
+    path: Assets/Scenes/33 Yellow.unity
+    guid: a6b15a11d7dd17f4d9fbd9c49055b700
+  - enabled: 1
+    path: Assets/Scenes/34 Blue.unity
+    guid: 3ad665bc5d959844d9e4eab087eb1a95
+  - enabled: 1
+    path: Assets/Scenes/35 Pink.unity
+    guid: 298d98e09b57c2348a38ddc69be75c08
+  - enabled: 1
+    path: Assets/Scenes/36 Yellow.unity
+    guid: 101653e6c1777ae48ab1f4436c784848
+  - enabled: 1
+    path: Assets/Scenes/37 Blue.unity
+    guid: d8b382a5d7652c74a902d49d1b806027
+  - enabled: 1
+    path: Assets/Scenes/38 Pink.unity
+    guid: ae881841b5e9bd744ace5c4f61d35ce5
+  - enabled: 1
+    path: Assets/Scenes/39 Yellow.unity
+    guid: 6cd550230e843e841bf02e1769fe6ce1
+  - enabled: 1
+    path: Assets/Scenes/40 Blue.unity
+    guid: 43ac16eec87220e4f9a7ccb86205a2bd
+  - enabled: 1
+    path: Assets/Scenes/41 Pink.unity
+    guid: 25f02f9f68d884640a80dafa3c0752ae
+  - enabled: 1
+    path: Assets/Scenes/42 Yellow.unity
+    guid: 6f7bc693d1f462747a9569f520764391
+  - enabled: 1
+    path: Assets/Scenes/43 Blue.unity
+    guid: 69ccd35309b80c849bac53340a7732ce
+  - enabled: 1
+    path: Assets/Scenes/44 Pink.unity
+    guid: ce8a2f81893ab584182b33d0641f78ab
+  - enabled: 1
+    path: Assets/Scenes/45 Yellow.unity
+    guid: 46944aecb1683c04aab59342ccb06612
+  - enabled: 1
+    path: Assets/Scenes/46 Blue.unity
+    guid: 65f7923825b60164a9e7656f55b8f709
+  - enabled: 1
+    path: Assets/Scenes/47 Pink.unity
+    guid: c3f1043a3d5b8524094ff99573859863
+  - enabled: 1
+    path: Assets/Scenes/48 Yellow.unity
+    guid: de19d99c5877b0f4fbbde362b40b9f31
+  - enabled: 1
+    path: Assets/Scenes/49 Blue.unity
+    guid: a68ad7749ac4d8d4fadcb232c0650239
+  - enabled: 1
+    path: Assets/Scenes/50 Pink.unity
+    guid: 0929b3f8cb8db5640b6ef7adfadfb986
+  - enabled: 1
+    path: Assets/Scenes/51 Yellow.unity
+    guid: 648a37b5aef61fa40ab185bac8a33c9b
+  - enabled: 1
+    path: Assets/Scenes/52 Blue.unity
+    guid: 597921bd129081e4bae65eb9afe3ba7b
+  - enabled: 1
+    path: Assets/Scenes/53 Pink.unity
+    guid: 78c5cedc2f4fc0148a7245f3378cbaa7
+  - enabled: 1
+    path: Assets/Scenes/54 Yellow.unity
+    guid: fb9217c02503f2a4082c9937074a4304
+  - enabled: 1
+    path: Assets/Scenes/55 Blue.unity
+    guid: 0ce1cf1d4735db943b094b5c9e11315a
+  - enabled: 1
+    path: Assets/Scenes/56 Pink.unity
+    guid: 6a01aaf8a4d7ed34ba718cecbb096b09
+  - enabled: 1
+    path: Assets/Scenes/57 Yellow.unity
+    guid: 4b83717ed4f2ccc449e8c8a00242f74e
+  - enabled: 1
+    path: Assets/Scenes/58 Blue.unity
+    guid: 4a3f8d3b90fd4f046aca089dd519abe8
+  - enabled: 1
+    path: Assets/Scenes/59 Pink.unity
+    guid: 5dcea937d1d97a54f9d3c3858bcd2a31
+  - enabled: 1
+    path: Assets/Scenes/60 Yellow.unity
+    guid: 5129afe7442f6b54cadd0c5cead55360
+  - enabled: 1
+    path: Assets/Scenes/61 Blue.unity
+    guid: 8b589443c8005734986a426c33fa3c91
+  - enabled: 1
+    path: Assets/Scenes/62 Pink.unity
+    guid: eded174c3e5dbda428a6d929c5989cf5
+  - enabled: 1
+    path: Assets/Scenes/63 Yellow.unity
+    guid: 024c0a119557e4e48b94edcfd169cb42
+  - enabled: 1
+    path: Assets/Scenes/64 Blue.unity
+    guid: f0b39de79c86bc343811ee4393bb5aa5
+  - enabled: 1
+    path: Assets/Scenes/65 Pink.unity
+    guid: ac6fe661a82514444b629e1d792566a9
+  - enabled: 1
+    path: Assets/Scenes/66 Yellow.unity
+    guid: f314ab1aec6dde64a8ca6d41b5e5fae4
+  - enabled: 1
+    path: Assets/Scenes/67 Blue.unity
+    guid: 6157be6f094ac9e489438bc4ae3b5036
+  - enabled: 1
+    path: Assets/Scenes/68 Pink.unity
+    guid: 814822480c43bc342ad57cd23d5d85a0
+  - enabled: 1
+    path: Assets/Scenes/69 Yellow.unity
+    guid: 0fd11a926897668469ea088827d05f38
+  - enabled: 1
+    path: Assets/Scenes/70 Blue.unity
+    guid: b8d21abd3b64373488c6349b5aa3b884
+  - enabled: 1
+    path: Assets/Scenes/71 Pink.unity
+    guid: 88a3e00cb0cfa0543a0d9a81973124af
+  - enabled: 1
+    path: Assets/Scenes/72 Yellow.unity
+    guid: 84185e7b98e79ef4c8b2eb674b9cbb78
+  - enabled: 1
+    path: Assets/Scenes/73 Blue.unity
+    guid: 60347ec4eb849124d98b53642d75c5af
+  - enabled: 1
+    path: Assets/Scenes/74 Pink.unity
+    guid: 04291108c87389143837a4cea70eb517
+  - enabled: 1
+    path: Assets/Scenes/75 Yellow.unity
+    guid: 58fdf058420c7be42a65ba461bd3b4c0
+  - enabled: 1
+    path: Assets/Scenes/76 Blue.unity
+    guid: 54201485f6196314dbd5a648425e9416
+  - enabled: 1
+    path: Assets/Scenes/77 Pink.unity
+    guid: 58ba0c196b6f3864490b3fb0d8957834
+  - enabled: 1
+    path: Assets/Scenes/78 Yellow.unity
+    guid: da084b44d60444343841c066a165f714
+  - enabled: 1
+    path: Assets/Scenes/79 Blue.unity
+    guid: 77f1a24bbf019dd49bd0b2be4b529038
+  - enabled: 1
+    path: Assets/Scenes/80 Pink.unity
+    guid: 4fc40a53548cbfb4a8082796b3a25d5d
+  - enabled: 1
+    path: Assets/Scenes/81 Yellow.unity
+    guid: 0876fa4e258a9894da8aafeb4256a00f
+  - enabled: 1
+    path: Assets/Scenes/82 Blue.unity
+    guid: 99c0f495f1f7f9e44a79bf24312162a7
+  - enabled: 1
+    path: Assets/Scenes/83 Pink.unity
+    guid: a1c11deab0fbe0a4bba29756e1f1508f
+  - enabled: 1
+    path: Assets/Scenes/84 Yellow.unity
+    guid: 51aac9598ad67564f8d54ff532c5d9e3
+  - enabled: 1
+    path: Assets/Scenes/85 Blue.unity
+    guid: 48bae142c85f4a34b98c831774fe2738
+  - enabled: 1
+    path: Assets/Scenes/86 Pink.unity
+    guid: 20961bb83c9601f4b954090ac43db6ba
+  - enabled: 1
+    path: Assets/Scenes/87 Yellow.unity
+    guid: 99026aa8770e4104d92de2704684cc46
+  - enabled: 1
+    path: Assets/Scenes/88 Blue.unity
+    guid: d63cdc84f5e19a64e82a9b2223561727
+  - enabled: 1
+    path: Assets/Scenes/89 Pink.unity
+    guid: c9a95e8ee2901684c8012c7043559cf6
+  - enabled: 1
+    path: Assets/Scenes/90 Yellow.unity
+    guid: a2749516d7f088d44970957960d377fb
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 2298f9947abc1124290511298d0a77a0, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1d0271c8a4110b24294fa70b3157555a,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 8368144842b25c943bbbc94de30732d5, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: ae7adcaf70dacad448188bc457208247, type: 2}
