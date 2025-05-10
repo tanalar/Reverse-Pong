@@ -59,7 +59,7 @@ public class UI : MonoBehaviour
     {
         if (pauseMenu.activeInHierarchy == false)
         {
-            FirebaseAnalytics.LogEvent("user_click_pause");
+            //FirebaseAnalytics.LogEvent("user_click_pause");
 
             Time.timeScale = 0;
 
@@ -69,7 +69,7 @@ public class UI : MonoBehaviour
         }
         else
         {
-            FirebaseAnalytics.LogEvent("user_click_resume");
+            //FirebaseAnalytics.LogEvent("user_click_resume");
 
             Time.timeScale = 1;
 
@@ -82,7 +82,7 @@ public class UI : MonoBehaviour
     }
     public void Quit()
     {
-        FirebaseAnalytics.LogEvent("user_click_quit");
+        //FirebaseAnalytics.LogEvent("user_click_quit");
 
         Time.timeScale = 1;
 
@@ -102,7 +102,7 @@ public class UI : MonoBehaviour
     }
     public void Sound()
     {
-        FirebaseAnalytics.LogEvent("user_click_sound");
+        //FirebaseAnalytics.LogEvent("user_click_sound");
 
         if (PlayerPrefs.GetInt("Sound", 1) == 1)
         {
@@ -116,7 +116,7 @@ public class UI : MonoBehaviour
     }
     public void Music()
     {
-        FirebaseAnalytics.LogEvent("user_click_music");
+        //FirebaseAnalytics.LogEvent("user_click_music");
 
         if (PlayerPrefs.GetInt("Music", 1) == 1)
         {

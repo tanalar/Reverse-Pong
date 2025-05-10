@@ -28,7 +28,7 @@ public class LevelSelector : MonoBehaviour
     }
     public void LoadLevel()
     {
-        FirebaseAnalytics.LogEvent("user_click_level_choise");
+        //FirebaseAnalytics.LogEvent("user_click_level_choise");
 
         Time.timeScale = 1;
         SceneManager.LoadScene(int.Parse(gameObject.name));

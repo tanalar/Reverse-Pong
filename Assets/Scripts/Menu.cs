@@ -26,7 +26,7 @@ public class Menu : MonoBehaviour
 
     public void MainMenu()
     {
-        FirebaseAnalytics.LogEvent("user_click_back");
+        //FirebaseAnalytics.LogEvent("user_click_back");
 
         mainMenu.SetActive(true);
 
@@ -46,7 +46,7 @@ public class Menu : MonoBehaviour
 
     public void ChooseLevel()
     {
-        FirebaseAnalytics.LogEvent("user_click_champoinship");
+        //FirebaseAnalytics.LogEvent("user_click_champoinship");
 
         chooseLevelMenu.SetActive(true);
 
@@ -57,7 +57,7 @@ public class Menu : MonoBehaviour
 
     public void Ads()
     {
-        FirebaseAnalytics.LogEvent("user_click_removead");
+        //FirebaseAnalytics.LogEvent("user_click_removead");
 
         adsMenu.SetActive(true);
 

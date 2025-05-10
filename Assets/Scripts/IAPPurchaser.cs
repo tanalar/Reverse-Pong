@@ -13,7 +13,7 @@ public class IAPPurchaser : MonoBehaviour
         switch (product.definition.id)
         {
             case "removeads":
-                FirebaseAnalytics.LogEvent("user_click_pay");
+                //FirebaseAnalytics.LogEvent("user_click_pay");
                 PlayerPrefs.SetInt("AdsRemoved", 1);
                 onAdsRemoved?.Invoke();
                 break;
